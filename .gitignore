@@ -1,0 +1,4 @@
+bin/
+*.tgz
+*.tar.gz
+compile_commands.json
