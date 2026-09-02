@@ -71,7 +71,7 @@ Trabalho realizado em dupla.
 
 ---
 
-## ⏱ Fundamentação / Arquitetura
+## ⏱ Fundamentação
 
 A calculadora usa **notação pré-fixa**: o operador aparece *antes* dos seus operandos. Por exemplo, a expressão `(3 + 4) * 2` é representada como `* + 3 4 2`.
 
@@ -95,7 +95,7 @@ avalia()                      → lê '*'
 
 ## 👥 Componentes
 
-| Módulo / Função | Descrição |
+| Função | Descrição |
 |-----------------|-----------|
 | **`proximo_item()`** | Lê o próximo token da entrada via `scanf`. Aloca dinamicamente uma cópia da string lida e a retorna. Retorna `NULL` ao fim da entrada (EOF). |
 | **`avalia()`** | Função recursiva central. Obtém um token: se for número, converte e retorna; se for operador, chama `avalia()` duas vezes e aplica a operação. |
@@ -107,7 +107,7 @@ avalia()                      → lê '*'
 
 ## 🔄 Dinâmica e Fluxo de Execução
 
-| Etapa | Comportamento e Ações Executadas |
+| Etapa | Ações Executadas |
 |-------|----------------------------------|
 | `Leitura do token` | `proximo_item()` lê uma palavra da stdin com `scanf("%s")`. Retorna `NULL` se EOF. |
 | `Token é número` | `isdigit(item[0])` detecta número. `strtod()` converte a string para `double`. Memória liberada com `free()`. |
