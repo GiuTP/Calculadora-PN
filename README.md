@@ -3,6 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <br />
 <div align="center">
@@ -222,6 +224,8 @@ Link do projeto: [https://github.com/GiuTP/Calculadora-RPN](https://github.com/G
 [issues-url]: https://github.com/GiuTP/Calculadora-RPN/issues
 [license-shield]: https://img.shields.io/github/license/GiuTP/Calculadora-RPN.svg?style=for-the-badge
 [license-url]: https://github.com/GiuTP/Calculadora-RPN/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/giuliano-tavares/
 [C-badge]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
 [Linux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
