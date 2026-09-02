@@ -206,6 +206,15 @@ Link do projeto: [https://github.com/GiuTP/Calculadora-RPN](https://github.com/G
 
 ---
 
+## 🙏 Agradecimentos
+
+* [Prof. Renato Carmo (DINF/UFPR)](https://www.inf.ufpr.br/renato/) — pela disciplina e pelo enunciado do trabalho
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template) — template base deste README
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+---
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [stars-shield]: https://img.shields.io/github/stars/GiuTP/Calculadora-RPN.svg?style=for-the-badge
 [stars-url]: https://github.com/GiuTP/Calculadora-RPN/stargazers
